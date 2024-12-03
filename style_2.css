@@ -1,0 +1,168 @@
+.top_friday {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .middle_friday {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .bottom_friday {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+
+  .top_MyERApp {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .middle_MyERApp {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .bottom_MyERApp {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+
+  .top_mystique {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .middle_mystique {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .bottom_Mystique {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+
+  .top_vigillant {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .middle_vigilant {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .bottom_vigilant {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+
+  .top_tracer {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .middle_tracer {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .bottom_tracer {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+
+  .top_sizzle {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .middle_sizzle {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  .bottom_sizzle {
+    /* Styles for the image only */
+    width: 30px;          /* Set the width */
+    height: auto;          /* Maintain aspect ratio */
+    float: right;         /* Float the image to the right */
+    margin-left: 20px;   /* Add margin to separate it from text */
+    border-radius: 10px;   /* Add rounded corners (optional) */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Add a shadow (optional) */
+  }
+  
